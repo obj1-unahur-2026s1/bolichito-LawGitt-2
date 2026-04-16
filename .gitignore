@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 /log
+=======
+
+# Local history
+.history
+
+# Wollok Log
+*.log
+>>>>>>> e217c68d22bed5bde78d8df88f678a42c49049aa
